@@ -1,0 +1,20 @@
+{
+  "name": "Robera-SuperMarket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robera-teshome/Robera-SuperMarket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robera-teshome/Robera-SuperMarket/issues"
+  },
+  "homepage": "https://github.com/robera-teshome/Robera-SuperMarket#readme"
+}
