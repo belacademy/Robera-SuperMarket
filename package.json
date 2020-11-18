@@ -1,0 +1,27 @@
+{
+  "name": "Robera-SuperMarket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robera-teshome/Robera-SuperMarket.git"
+  },
+  "keywords": [],
+  "author": "Yared Getachew <yared.getachew.tessema@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robera-teshome/Robera-SuperMarket/issues"
+  },
+  "homepage": "https://github.com/robera-teshome/Robera-SuperMarket#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.14",
+    "morgan": "^1.10.0"
+  }
+}
